@@ -1,0 +1,4 @@
+interface:
+  display_name: "D8 SKF 开发与测试"
+  short_description: "编译、发布并测试 D8 SKF UKey 多平台开发包"
+  default_prompt: "Use $d8-skf-development to build and validate the D8 SKF libraries for the requested platforms."
